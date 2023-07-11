@@ -15,7 +15,11 @@
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
+  "engines": {
+    "npm": "7.x"
+  },
   "dependencies": {
     "graphql": "^15.6.0"
   }
+
 }
